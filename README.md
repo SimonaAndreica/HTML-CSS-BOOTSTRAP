@@ -1,4 +1,3 @@
 # HTML-CSS-BOOTSTRAP5-WEBSITE
-banner.JPG
-
+![banner](/images/banner.JPG)
 
